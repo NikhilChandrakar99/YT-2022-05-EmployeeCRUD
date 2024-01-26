@@ -95,18 +95,6 @@
       "salary": 35,
       "profile": "Profile-05.jpg",
       "id": 10
-    },
-    {
-      "firstname": "Yash",
-      "lastname": "Chauhan",
-      "birthdate": "1995-11-24",
-      "gender": "m",
-      "education": "post graduate",
-      "company": "Fiserv",
-      "jobExperience": 13,
-      "salary": 25,
-      "profile": "Profile-03.jpg",
-      "id": 11
     }
   ],
   "comments": [],
